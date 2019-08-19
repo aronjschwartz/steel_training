@@ -15,7 +15,7 @@ steel_train.py             #Primary training file
 train.csv                  #CSV containing core data
 
 
-
+Change ROOT DIR on line 19 to your directory in steel_train.py
 
 Run the following from command line to execute the program (while in working directory as shown above):
 
